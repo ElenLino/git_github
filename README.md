@@ -1,2 +1,2 @@
 # git_github
-optional
+this is for tutorial purpose
